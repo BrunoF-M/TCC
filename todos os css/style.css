@@ -1,0 +1,43 @@
+body {
+   background-color: #A7D9D0;
+}
+
+#mmm {
+    text-align: center;
+}
+
+#gm {
+    color: darkblue;
+}
+
+#gtv {
+    color: white;
+}
+
+#t {
+    color: rgb(161, 161, 161)
+}
+
+#divlado{
+    display: inline-block;
+
+}
+
+#divlado2{
+    display: inline-block;
+    margin-left: 25px;
+}
+
+#midqdp {
+    padding-left: 50px;
+    margin-top: 5px;
+}
+
+#gvtico {
+    display: inline-block;
+}
+
+#gvtico2 {
+    display: inline-block;
+    margin-left: 30px;
+}
