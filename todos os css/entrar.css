@@ -1,0 +1,16 @@
+body {
+    background-color: #A7D9D0;
+}
+
+#textcenter01 {
+    text-align: center;
+}
+
+#imgdabola {
+    display: inline-block;
+}
+
+#formladocbola {
+    display: inline-block;
+    padding-top: 20px;
+}
